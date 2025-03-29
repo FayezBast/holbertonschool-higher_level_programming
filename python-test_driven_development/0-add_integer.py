@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-
 def add_integer(a, b=98):
     """
     Return the addition of a and b.
+
+This module provides a function for adding two integers.
 
     Args:
         a (int, float): the first value.
