@@ -1,4 +1,3 @@
-
 The ``add_integer`` module
 ==========================
 
@@ -135,4 +134,3 @@ Now use it:
 	Traceback (most recent call last):
 	...
 	TypeError: a must be an integer
-
