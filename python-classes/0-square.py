@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-    """ mian
-    """
+"""Square generation module
+"""
 
 
 class Square:
