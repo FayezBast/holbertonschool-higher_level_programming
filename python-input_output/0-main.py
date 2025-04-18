@@ -1,4 +1,14 @@
 #!/usr/bin/python3
-read_file = __import__('0-read_file').read_file
+"""write_file module.
 
-read_file("my_file_0.txt")
+Contains a function that writes a text file.
+"""
+
+
+def write_file(filename="", text=""):
+    """
+    Writes a string to a text file (UTF8) and
+    returns the number of characters written.
+    """
+    with open(filename, 'w') as f:
+        return f.write(text)
