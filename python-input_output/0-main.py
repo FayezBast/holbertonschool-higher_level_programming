@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""write_file module.
+"""write_file module
 
-Contains a function that writes a text file.
+Contains a function that writes a text file
 """
 
 
